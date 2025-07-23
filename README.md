@@ -2,6 +2,7 @@ Job Portal Application
 A modern, responsive job portal built with Next.js that allows users to browse job opportunities and view detailed job descriptions. The application features a clean, professional design with full-screen layouts and native HTML components.
 
 🚀 Features
+
 Job Listings Page: Browse all available job opportunities with company information, locations, and categories
 Job Detail Page: View comprehensive job descriptions, responsibilities, candidate requirements, and application details
 Responsive Design: Fully responsive layout that works on desktop, tablet, and mobile devices
