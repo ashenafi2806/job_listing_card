@@ -4,19 +4,33 @@ A modern, responsive job portal built with Next.js that allows users to browse j
 🚀 Features
 
 Job Listings Page: Browse all available job opportunities with company information, locations, and categories
+
 Job Detail Page: View comprehensive job descriptions, responsibilities, candidate requirements, and application details
+
 Responsive Design: Fully responsive layout that works on desktop, tablet, and mobile devices
+
 Native Components: Built with native HTML elements and Tailwind CSS (no external UI library dependencies)
+
 Dynamic Routing: Individual pages for each job posting with clean URLs
+
 Professional UI: Clean, modern interface with proper spacing, typography, and visual hierarchy
+
 🛠️ Technology Stack
+
 Framework: Next.js 14 (App Router)
+
 Styling: Tailwind CSS
+
 Language: TypeScript
+
 Data: Static JSON file
+
 Icons: Emoji characters (no external icon libraries)
+
 📁 Project Structure
+
 job-portal/
+
 ├── app/
 │   ├── job/
 │   │   └── [id]/
