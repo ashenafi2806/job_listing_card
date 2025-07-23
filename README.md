@@ -33,8 +33,11 @@ job-portal/
 
 ├── app/
 │   ├── job/
+
 │   │   └── [id]/
-│   │       └── page.tsx          # Job detail page
+
+│   │       └── page.tsx  
+# Job detail page
 │   ├── globals.css               # Global styles
 │   ├── layout.tsx               # Root layout
 │   └── page.tsx                 # Job listings page (homepage)
